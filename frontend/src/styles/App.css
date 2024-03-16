@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.custom-container {
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.726);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8px);
+}
+
+.custom-form-container {
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.726);
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(8px);
+}
+
+.custom-response {
+  margin: 20px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.726);
+}
+
+.basic-response {
+  display: flex;
+  background: rgba(255, 255, 255, 0.508);
+}
+
